@@ -1,0 +1,6 @@
+{
+  "name": "AtelierTrack - Bespoke Order & Measurement System",
+  "description": "Comprehensive bespoke tailoring and custom garment management system with detailed client measurement profiles, production pipeline tracking, and work orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
